@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937456704579",
+    "project_id": "bookstore-dad80",
+    "storage_bucket": "bookstore-dad80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937456704579:android:da8689ed6f00ec7e8c08f6",
+        "android_client_info": {
+          "package_name": "com.example.readify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkCtBf1ivJbK3i16Rzxo03GWqcWOhyXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
