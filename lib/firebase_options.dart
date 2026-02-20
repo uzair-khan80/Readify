@@ -47,8 +47,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBi3crTQBJUMF2feXhTfX_fepBU7LlYdZY',
-    appId: '1:937456704579:web:c976749b4a2238728c08f6',
+    apiKey: '7777777777',
+    appId: 'jiu889999999',
     messagingSenderId: '937456704579',
     projectId: 'bookstore-dad80',
     authDomain: 'bookstore-dad80.firebaseapp.com',
